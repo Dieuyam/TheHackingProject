@@ -1,0 +1,21 @@
+/*
+.entête	{
+     text-align:right;
+     }*/
+
+
+
+.main {
+
+padding: 20px;
+}
+
+
+
+
+
+#conteneur {
+  display: flex;
+  justify-content: c;
+flex direction: column;
+}
